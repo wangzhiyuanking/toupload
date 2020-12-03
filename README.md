@@ -1,3 +1,5 @@
+# 电脑与远程仓库连接
+
 1、新建仓库
 
 <img src="README.assets/image-20201203200521356.png" alt="image-20201203200521356" style="zoom: 67%;" />
@@ -35,7 +37,7 @@ git config --global user.name wangzhiyuan
 git config --global user.email 2656489919
 ```
 
-
+# 首次上传远程仓库
 
 
 
