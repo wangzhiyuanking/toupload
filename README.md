@@ -85,7 +85,14 @@ git push -u origin main
 git pull origin main
 ```
 
-修改后再推上去
+修改后
+
+```
+git add .
+git commit -m 说明
+```
+
+再推上去
 
 ```
 git push origin main
