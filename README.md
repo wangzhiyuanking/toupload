@@ -75,8 +75,19 @@ git remote add origin git@github.com:wangzhiyuanking/toupload.git
 git push -u origin main
 ```
 
-更新代码到github上(一定要切换到项目目录上)
+# 更新代码到github上
 
-![image-20201203203901402](README.assets/image-20201203203901402.png)
 
-![image-20201203203929589](README.assets/image-20201203203929589.png)
+
+先从github上拉取代码
+
+```
+git pull origin main
+```
+
+修改后再推上去
+
+```
+git push origin main
+```
+
